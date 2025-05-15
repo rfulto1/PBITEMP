@@ -1,0 +1,152 @@
+BOARD_ID,BOARD_NAME,TYPE,LOCATION_ID,LOCATION_NAME,ESTIMATION_TYPE,ESTIMATION_FIELD_NAME
+63,CD Sprint 2 Kanban,kanban,10000,Customer Digital (CD),,
+61,CD Sprint 1 Kanban,kanban,10000,Customer Digital (CD),,
+65,CD Sprint 1 Test Case,kanban,10000,Customer Digital (CD),,
+100,Karens Board,kanban,10000,Customer Digital (CD),,
+66,Data Team Board,kanban,10000,Customer Digital (CD),,
+72,Sprint 2 Security,kanban,10000,Customer Digital (CD),,
+73,Sprint 2 Scrum Board,scrum,10000,Customer Digital (CD),field,Story Points
+104,CD Sprint 4 Kanban,kanban,10000,Customer Digital (CD),,
+76,Sprint 2 Kanban for Bibi,kanban,10000,Customer Digital (CD),,
+43,Customer Digital,scrum,10000,Customer Digital (CD),field,Story Points
+237,FR2 Defects - Status,kanban,10000,Customer Digital (CD),,
+87,Solution Board,kanban,10000,Customer Digital (CD),,
+92,Derek sprint 2 build vs design,kanban,10000,Customer Digital (CD),,
+79,CD Sprint 3 Kanban,kanban,10000,Customer Digital (CD),,
+88,RR3 WIP Data,kanban,10000,Customer Digital (CD),,
+107,John Customer Digital,scrum,10000,Customer Digital (CD),field,Story Points
+116,CD Sprint 5 Kanban FR0,kanban,10000,Customer Digital (CD),,
+140,Copy of CD Pre-Sprint FR1-4 Kanban Board,kanban,10000,Customer Digital (CD),,
+141,Copy of CD Pre-Sprint FR1-4 Kanban Board,kanban,10000,Customer Digital (CD),,
+145,Lea testing,scrum,10000,Customer Digital (CD),field,Story Points
+131,CD Sprint 0 Kanban FR1,kanban,10000,Customer Digital (CD),,
+146,MC Build Board,kanban,10000,Customer Digital (CD),,
+147,FR0 Defect,kanban,10000,Customer Digital (CD),,
+128,FR1 Sprint 1 Kanban,kanban,10000,Customer Digital (CD),,
+133,CD Pre-Sprint FR1-4 Kanban Board,kanban,10000,Customer Digital (CD),,
+134,Defect,scrum,10000,Customer Digital (CD),field,Story Points
+139,Copy of CD Pre-Sprint FR1-4 Kanban Board,kanban,10000,Customer Digital (CD),,
+238,BMA Test,kanban,10000,Customer Digital (CD),,
+225,CDI FR3 Kanban,scrum,10000,Customer Digital (CD),field,Story Points
+153,Copy of FR1 Sprint 1 Kanban,kanban,10000,Customer Digital (CD),,
+179,FR2 Planning,kanban,10000,Customer Digital (CD),,
+203,O and E kanban,kanban,10000,Customer Digital (CD),,
+171,Customer-Digital-DMA,scrum,10000,Customer Digital (CD),field,Story Points
+161,FR1 Defect,kanban,10000,Customer Digital (CD),,
+154,FR1 Sprint 2 Kanban,kanban,10000,Customer Digital (CD),,
+155,FR1 Sprint 3 Kanban,kanban,10000,Customer Digital (CD),,
+156,Lea's,scrum,10000,Customer Digital (CD),field,Story Points
+192,CD-SC-FR1-Sprint1,kanban,10000,Customer Digital (CD),,
+184,Brent FR0 Open Defect,kanban,10000,Customer Digital (CD),,
+185,CD BA SA Activity FR1-4,kanban,10000,Customer Digital (CD),,
+210,FR2 Sprint 1 Kanban,kanban,10000,Customer Digital (CD),,
+198,CDI FR1 full board,kanban,10000,Customer Digital (CD),,
+211,FR2 Kanban Board,kanban,10000,Customer Digital (CD),,
+209,Brent FR1 Defects Incl: Tech Debt,kanban,10000,Customer Digital (CD),,
+255,CC B&P FR3 Sprint 2A Mini 2 kanban,kanban,10000,Customer Digital (CD),,
+240,FR3 Programs and Offers Sprint 1,kanban,10000,Customer Digital (CD),,
+241,FR3 Sprint 2 Kanban Board,kanban,10000,Customer Digital (CD),,
+226,FR3 Kanban Board,kanban,10000,Customer Digital (CD),,
+232,FR3 Sprint 1 Kanban Board,kanban,10000,Customer Digital (CD),,
+242,CC B&P Sprint2,kanban,10000,Customer Digital (CD),,
+233,Technical Debt Kanban Board,kanban,10000,Customer Digital (CD),,
+243,CC B&P FR3 Sprint 2 kanban,kanban,10000,Customer Digital (CD),,
+244,FR3 Design,kanban,10000,Customer Digital (CD),,
+235,test 123,kanban,10000,Customer Digital (CD),,
+245,SC B&P FR3 Sprint 1 Kanban,kanban,10000,Customer Digital (CD),,
+246,CC B&P FR3 Sprint 2A Kanban,kanban,10000,Customer Digital (CD),,
+248,Defects-CDI (BMA),kanban,10000,Customer Digital (CD),,
+249,FR3 Sprint 2A Kanban Board,kanban,10000,Customer Digital (CD),,
+250,FR3 SP2A Google Analytics and T&C,kanban,10000,Customer Digital (CD),,
+253,Nov Release- Comm Pref & Outage Notifications,kanban,10000,Customer Digital (CD),,
+256,MC Kanban,kanban,10000,Customer Digital (CD),,
+259,Sibu FR3 Combined,kanban,10000,Customer Digital (CD),,
+260,SC FR3 Sprint 3,kanban,10000,Customer Digital (CD),,
+261,Ajay FR3 CC Misc Dec Release Non-B&P,kanban,10000,Customer Digital (CD),,
+262,Ajay CC FR3 Sprint 3 Non-B&P_Jan Release,kanban,10000,Customer Digital (CD),,
+267,P&O CC Jan,kanban,10000,Customer Digital (CD),,
+264,Ajay CC FR3 December Release,kanban,10000,Customer Digital (CD),,
+268,FR4 Service Cloud Start Stop Move,kanban,10000,Customer Digital (CD),,
+270,Ajay CC Sprint 3 Non-P&O Jan Release,kanban,10000,Customer Digital (CD),,
+1,CD board,scrum,10000,Customer Digital (CD),field,Story Points
+469,CI Sprint 4,scrum,10000,Customer Digital (CD),field,Story Points
+31,CSBF board,scrum,10027,CDI Salesforce Base Framework (FR0),field,Story Points
+32,CDI Salesforce Base Framework,scrum,10027,CDI Salesforce Base Framework (FR0),field,Story Points
+662,MCE board,simple,10462,Year 2025 Maximo and Click Enhancements (MCE),field,Story point estimate
+663,MCE2025 board,scrum,10463,2025 Maximo and Click Enhancements (MCE2025),field,Story Points
+661,Complex Billing (All),scrum,10461,Complex Billing (COMPLEXBIL),issueCount,
+41,FR0 Daily Standup Meeting Tasks,kanban,10027,CDI Salesforce Base Framework (FR0),,
+666,DMAN2024,scrum,10468,DMAN2024 (DMAN24),field,Story Points
+530,CAP Board,scrum,10345,Channel Analytics (CAP),field,Story Points
+667,System Performance 2025,scrum,10463,2025 Maximo and Click Enhancements (MCE2025),field,Story Points
+444,ECS board,scrum,10289," Enterprise Contractor Safety (ECS)",field,Story Points
+172,SCWIL board,kanban,10086,Supply Chain WIL (SCWIL),,
+160,SCACT board,kanban,10082,Supply Chain Action (SCACT),,
+194,SCCIP013 board,kanban,10109,CIP-013 Supply Chain (SCCIP013),,
+239,IPM board,kanban,10140,Infrastructure Portfolio Management (IPM),,
+230,IVR Lite,scrum,10043,IVR Lite Project (IVR),field,Story Points
+234,SATP board,kanban,10138,Systems and Automation Team Prioritization (SATP),,
+106,ESMS board,scrum,10067,Entergy Shoreline Management System (ESMS),field,Story Points
+281,IPRE board,simple,10157,IT PMO Roadmap Execution (IPRE),field,Story point estimate
+310,ATO board,simple,10178,ATO Transfer Report (ATO),,
+325,ESMS2 board,simple,10188,ESMS2 - POC (ESMS2),,
+355,AUP board,simple,10205,Archer Update Project (AUP),field,Story point estimate
+430,IOE board,simple,10277,IT Operational Excellence (IOE),field,Story point estimate
+412,EAR board,simple,10259,EarningsRelease (EAR),,
+505,SM- CI-Kanban,kanban,10315,CDI Improvement  (CI),,
+417,DOCMBOT board,simple,10264,Documentum_mbot (DOCMBOT),field,Story point estimate
+220,TDMPBI board,scrum,10133,TBM Power BI (TDMPBI),field,Story Points
+258,CTA board,simple,10142,CDI Test Automation (CTA),field,Story point estimate
+331,TTA board,simple,10191,TOSCA Test Automation (TTA),,
+497,BP board,scrum,10323,Bill Projection Workflow (BP),field,Story Points
+512,EF board,simple,10330," EAL FRP (EF)",field,Story point estimate
+516,Active Sprint - Story Level,scrum,10320,CLM/CPQ (CLMCPQ),field,Story Points
+492,CLMCPQ board,scrum,10320,CLM/CPQ (CLMCPQ),field,Story Points
+556,EMI board,simple,10371," EMI FRP TY 2022 (EMI)",field,Story point estimate
+566,LIG23 board,simple,10378,LA IIRR-G 2022 3Q (LIG23),field,Story point estimate
+485,CI Board,scrum,10315,CDI Improvement  (CI),field,Story Points
+573,EFCT2 board,simple,10384," ELA FRP COS TY 2022 (EFCT2)",issueCount,
+565,CAI board,scrum,10377,Commercial and Industrial (CAI),field,Story Points
+595,MCI board,simple,10406,M2C Continuous Improvement (MCI),field,Story point estimate
+608,MYMFA board,simple,10419,myEntergy-MFA Implementation (MFA),field,Story point estimate
+626,RR board,simple,10427,Regulatory Rates (RR),field,Story point estimate
+614,EBC Replacement,scrum,10377,Commercial and Industrial (CAI),field,Story Points
+607,BCI board,simple,10418,BDEx Continuous Improvement (BCI),field,Story point estimate
+591,MYEN board,scrum,10402,myEntergy (MYEN),field,Story Points
+606,C&I Portal - Carbon Emissions,scrum,10377,Commercial and Industrial (CAI),field,Story Points
+630,FON board,simple,10431,Force Out Notification (FON),field,Story point estimate
+631,CDCI PMO,scrum,10402,myEntergy (MYEN),field,Story Points
+634,Phase 3 C&I Continuous Improvement,scrum,10377,Commercial and Industrial (CAI),field,Story Points
+616,C&I Portal EBusiness Self-Service,scrum,10377,Commercial and Industrial (CAI),field,Story Points
+633,Marketing Cloud Project,simple,10433,Marketing Cloud Project (MCP),field,Story point estimate
+709,MEB board,scrum,10512,MEB (MEB),field,Story Points
+742,EMA board,scrum,10545,Entergy Mobile App (EMACI),field,Story Points
+676,CAPC board,scrum,10479,Channel Analytics CI (CAPC),field,Story Points
+674,MFA2025 board,scrum,10477,MFA 2025 (MFA2025),field,Story Points
+657,IV board,scrum,10456,IVR (IV),field,Story Points
+775,MAS 9.1 Upgrade,scrum,10468,DMAN2024 (DMAN24),field,Story Points
+874,ITPMOBACK board,scrum,10644,IT PMO Backlog (ITPMOBACK),field,Story Points
+875,IT PMO Kanban Board,kanban,10644,IT PMO Backlog (ITPMOBACK),,
+672,MYSC board,scrum,10475,MyService Console (MYSC),field,Story Points
+1336,CB IT Enablement,kanban,10461,Complex Billing (COMPLEXBIL),,
+744,Project Delta - SalesForce Work,scrum,10547,Delta Transition Enablement (DTA2025),field,Story Points
+841,MAS9 board,scrum,10611,MAS 9.1 Upgrade (MAS9),field,Story Points
+1501,ACCTCI board,scrum,11172,Accounting Continuous Improvement (ACCTCI),field,Story-Points
+1534,ITPMODAA board,scrum,11205,IT PMO – Data & Analytics (ITPMODAA),field,Story-Points
+1600,CSOS board,simple,11238,Customer Systems Ops Support (CSOS),field,Story point estimate
+1666,CB RAID Board,kanban,10461,Complex Billing (COMPLEXBIL),,
+673,C360CI board,scrum,10476,C&I 360 Program (COMIND),field,Story Points
+983,VOM board,scrum,10782,View Outage Map (VOM),field,Story Points
+1171,CB Scrum Team 1,scrum,10461,Complex Billing (COMPLEXBIL),issueCount,
+1237,Epics Tracking (to SIT),kanban,10461,Complex Billing (COMPLEXBIL),,
+1072,CUSSYSLEAD board,simple,10875,Customer Systems Lead team (CUSSYSLEAD),field,Story point estimate
+984,MYENT board,scrum,10783,MyEntergy CI   (MYENT),field,Story Points
+1106,Core Product Leadership,kanban,10908,Entergy Jira - Training Project (EJTP),,
+1105,Scrum Team Board,scrum,10908,Entergy Jira - Training Project (EJTP),field,Story Points
+1172,CB Scrum Team 2,scrum,10461,Complex Billing (COMPLEXBIL),issueCount,
+1107,RID-Delta,kanban,10547,Delta Transition Enablement (DTA2025),,
+1138,Product Epic Board,kanban,10461,Complex Billing (COMPLEXBIL),,
+1204,Scrum Team X,scrum,10461,Complex Billing (COMPLEXBIL),issueCount,
+1173,CB Scrum Team 3,scrum,10461,Complex Billing (COMPLEXBIL),field,Story Points
+1174,CB Scrum Team 4,scrum,10461,Complex Billing (COMPLEXBIL),issueCount,
+1270,Release Testing Service Team,kanban,10461,Complex Billing (COMPLEXBIL),,

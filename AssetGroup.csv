@@ -1,0 +1,38 @@
+Id,Name,MainDepartmentId,LineOfDefenseId
+1,Endpoint Protection,1,1
+2,Network Security,1,1
+3," CSOC",1,1
+4,TVM,1,1
+5,InfoSec - Advanced Monitoring,1,1
+6,OT - Cyber Security,1,1
+7,Physical Security,1,1
+8," Data Security and Investigation",1,1
+9,Identity Mgmt Sys Suppt,1,1
+10,Performance & Regulatory Compliance,1,1
+11,"VP, Information Security",1,1
+12,OT - Substation Services,2,1
+13,OT Infrastructure,2,1
+14,OT - Fossil,2,1
+15,OT - EMCS,2,1
+16,Infrastructure - Data Network Engineering,2,1
+17,Technology Business Management,2,1
+18,Corporate Patching,2,1
+19,"VP, CIO",2,1
+20,Trans. Standards Design Basis,3,1
+21,Trans. Protection,3,1
+22,Metering Operations Admin,3,1
+23,Relay/Substation Design Admin,3,1
+24,Trans. Configuration & Controls,3,1
+25,Trans. Eng. Configuration Mgmt,3,1
+26,Trans. Planning -Technical Studies,3,1
+27,Capital Projects,3,1
+28,PGEN Fleet Maintenance,4,1
+29,PGEN Risk & Compliance,4,1
+30,PGEN Plants,4,1
+31,Corporate Security,6,1
+32,HRO,6,1
+33,Chief Operations Officer,6,1
+34,NERC CIP Compliance,5,2
+35,Legal,6,2
+36,CSO Office,6,2
+37,Internal Audit,6,3

@@ -1,0 +1,32 @@
+Id,Name
+1,Operator Workstations/ Servers (CIP Critical Generation Plants)
+2,Network Switches and Routers (CIP Critical Generation Plants)
+3,Process Controllers (CIP Critical Generation Plants)
+4,Data Diodes
+5,Relays and Revenue Meters (CIP Critical Generation Plants)
+6,Vibration Protection (CIP Critical Generation Plants)
+7,Network Devices (Checkpoint SMB Firewalls – Embedded GAIA)
+8,Network Devices (Checkpoint GIAA)
+9,Firewall Manager (Check Point GAIA)
+10,CACS Controllers
+11,Video Encoders
+12,PV Servers
+13,Windows Server
+14,TCC Workstation
+15,Digi PortServer TS-1 - Data Center
+16,Symmetricom time clock - Data Center
+17,Linux Servers
+18,Serial Console Servers
+19,Vmware
+20,NetApp
+21,Relays (Microprocessor based)
+22,DFR or DME
+23,RTU
+24,Port Servers
+25,Satellite Clocks
+26,RTU Peripherals
+27,PMUs
+28,Network Devices (Routers and Switches)
+29,Appliances
+30,Meters
+31,Digi Terminal Servers
